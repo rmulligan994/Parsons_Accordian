@@ -37,4 +37,3 @@ document.querySelectorAll('.faq5_question').forEach(question => {
     }
   });
 });
-</script>
